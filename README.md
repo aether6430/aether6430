@@ -1,38 +1,86 @@
-# Hello, I'm Abhiram
+# Hello, I’m Abhiram
 
 ## About Me
 
-- A student who turns caffeine into code and wild ideas into working products.
-- Specializing in **AI** (Google's models), **Next.js**, and **Arduino** - because why master one field when you can juggle three?
-- Founder of **Avenire** - an AI startup revolutionizing education. Traditional learning platforms hate this one weird trick.
+I’m a student who turns caffeine into code and half-formed ideas into real systems.
 
-## Technical Arsenal
+I work at the intersection of **AI, software engineering, and learning systems**, mostly because I enjoy building things that *think back*. I like ambitious projects, clean abstractions, and tools that feel thoughtful instead of bloated.
 
-- **Next.js**: Creating web experiences so smooth, they make butter jealous.
-- **Artificial Intelligence**: Teaching machines to think, still working on teaching myself.
-- **Arduino**: Hardware whisperer (success rate: surprisingly decent).
-- **UI/UX Design**: Converting "how do I use this?" into "oh, that was obvious."
-- **Natural Language Processing**: Making AI understand humans. Humans optional.
-- **Machine Learning**: Teaching computers to learn from their mistakes, so I don't have to make them all myself.
-- **Full-Stack Development**: Yes, I can center a div. No, I won't tell you how.
-- **Startup Development**: Professional chaos coordinator.
-
-## Current Mission
-
-[![Avenire](https://github-readme-stats.vercel.app/api/pin/?username=aether6430&repo=Avenire)](https://github.com/aether6430/Avenire)
-
-> **Avenire**: An AI-powered learning platform that's doing to education what Netflix did to Blockbuster. Minus the subscription fatigue.
-
-## Behind the Screen
-
-- Literature enthusiast - because sometimes the best code documentation is a good story.
-- Koenigsegg aficionado - studying their engineering while my bank account studies humility.
-- Tech optimist working to make the digital world a better place, one git commit at a time.
+Currently building **Avenire**, an attempt to rethink how learning, memory, and reasoning should work together.
 
 ---
 
-> _"Code is like humor. When you have to explain it, it's bad."_ 
-> 
-> (Fortunately, I'm decent at both)
+## What I Work With
 
-Feel free to explore my repositories or reach out if you want to build something awesome together.
+* **AI & ML (Google ecosystem + modern LLM tooling)**
+  Teaching machines to reason a little better — and myself along the way.
+
+* **Next.js / Full-Stack Web**
+  Building fast, structured, and opinionated interfaces that don’t fight the user.
+
+* **Systems & Tooling**
+  Designing internal engines, schedulers, and abstractions that actually scale conceptually.
+
+* **Arduino & Hardware**
+  Occasionally reminding software that the physical world exists.
+
+* **UI / UX Design**
+  Turning “how does this work?” into “oh — that makes sense.”
+
+* **Natural Language Processing**
+  Making software understand humans (still easier than the reverse).
+
+* **Startup Building**
+  Strategy, architecture, chaos management, and long-term vision included.
+
+---
+
+## Current Focus
+
+### 🚀 Avenire
+
+An AI-powered learning system built around **memory, reasoning, and long-term understanding**.
+
+Not just flashcards.
+Not just chatbots.
+Not just explanations.
+
+Avenire combines:
+
+* advanced spaced repetition
+* adaptive AI reasoning
+* structured learning objects
+* interaction-driven understanding
+
+into one coherent system.
+
+The goal is simple but ambitious:
+**help people actually understand and retain what they learn.**
+
+> Think less “study app”, more *thinking infrastructure*.
+
+---
+
+## What I Care About
+
+* Building tools that compound over time
+* Systems that are simple on the surface, deep underneath
+* Learning that respects cognition
+* Design that feels intentional
+* Software with philosophy behind it
+
+---
+
+## Outside the Editor
+
+* Literature enjoyer (good prose is underrated engineering)
+* Koenigsegg admirer (aerodynamics > financial decisions)
+* Terminal optimist about technology
+* Believer that clarity is a form of kindness
+
+---
+
+> “Code is like humor. When you have to explain it, it’s bad.”
+> — thankfully, explaining things is one of the parts I actually enjoy.
+
+Feel free to explore my repositories or reach out if you want to build something thoughtful, strange, or ambitious.

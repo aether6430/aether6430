@@ -20,6 +20,7 @@ spaced repetition, deep tutoring, structured memory.
 
 **stack**  
 `next.js` `typescript` `postgresql` `redis` `vercel ai sdk` `codex`
+
 ---
 
 *sci-fi novel in progress · koenigsegg admirer · physics enjoyer*

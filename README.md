@@ -1,1 +1,25 @@
-<img width="1440" height="1382" alt="image" src="https://github.com/user-attachments/assets/4f2636d0-f487-4b96-989a-9f73f2b26541" />
+~/whoami
+```lua
+local abhiram = {
+  role      = "student, builder",
+  location  = "hyderabad, india",
+  languages = { "typescript", "python" },
+  editors   = { "zed", "neovim" },
+  currently = "avenire",
+  site      = "https://damod.space",
+}
+```
+
+---
+
+**[avenire](https://avenire.space)** — ai-powered learning.
+spaced repetition, deep tutoring, structured memory.  
+*not a study app. thinking infrastructure.*
+
+---
+
+**stack**  
+`next.js` `typescript` `postgresql` `redis` `vercel ai sdk` `codex`
+---
+
+*sci-fi novel in progress · koenigsegg admirer · physics enjoyer*

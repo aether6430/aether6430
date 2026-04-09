@@ -16,6 +16,8 @@ local abhiram = {
 spaced repetition, deep tutoring, structured memory.  
 *not a study app. thinking infrastructure.*
 
+
+**[chromium tools](https://tools.damod.space)** — simple tools for tasks.
 ---
 
 **stack**  
